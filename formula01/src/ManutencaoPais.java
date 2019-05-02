@@ -43,7 +43,7 @@ public class ManutencaoPais extends javax.swing.JDialog {
         jLabel1.setText("Manutenção de País");
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
-        jLabel2.setText("Sigla");
+        jLabel2.setText("Sigla:");
 
         jTextField1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
